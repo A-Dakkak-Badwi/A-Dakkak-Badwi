@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! I'm **Abdulkader Dakkak Badwi** 🎉
 
-<!--
-**A-Dakkak-Badwi/A-Dakkak-Badwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 Aspiring software developer on a quest to conquer the digital realm. I used to be a student like you, then I took a syntax error in the key! 🏹⚔️ 
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Building exciting applications and websites using **Python**, **HTML**, and **CSS**.
+- Exploring open source projects and learning through collaboration with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- **Java**: Diving into object-oriented programming and building robust applications.
+- **JavaScript**: Enhancing my skills in web development and exploring frameworks.
+- **Node.js**: Learning to create server-side applications and building RESTful APIs.
+
+## 📫 Get in Touch
+- Email: abdulkaderdakkak94000@gmail.com
+- LinkedIn: [abdulkader-dakkak-badwi](https://www.linkedin.com/in/abdulkader-dakkak-badwi/)
+- GitHub: [A-Dakkak-Badwi](Github.com/A-Dakkak-Badwi)
+
+## 🌟 Fun Fact
+I also play **Guitars** and **Keyboard** and video games such as **Apex Legends** and can speak **English**, **German**, **Arabic**, and some turkish .
