@@ -17,4 +17,4 @@
 - GitHub: [A-Dakkak-Badwi](Github.com/A-Dakkak-Badwi)
 
 ## 🌟 Fun Fact
-I also play **Guitars** and **Keyboard** and video games such as **Apex Legends** and can speak **English**, **German**, **Arabic**, and some turkish .
+I also play **Guitars** and **Keyboard** and video games such as **Apex Legends** and can speak **English**, **German**, **Arabic** fluently, and some turkish .
