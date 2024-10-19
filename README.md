@@ -1,6 +1,6 @@
 # Hey there! I'm **Abdulkader Dakkak Badwi** 🎉
 
-👾 Aspiring software developer on a quest to conquer the digital realm. I used to be a Dev like you, then I took a syntax error in the key! 🏹⚔️ 
+👾 Aspiring software developer on a quest to conquer the digital realm. I used to be a Dovah-loper like you, then I took a syntax error in the key! 🏹⚔️ 
 
 ## 🚀 What I Do
 - Building exciting applications and websites using **Python**, **HTML**, and **CSS**.
