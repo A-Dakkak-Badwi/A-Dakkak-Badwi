@@ -3,7 +3,7 @@
 👾 Aspiring software developer on a quest to conquer the digital realm. I used to be a Dovah-loper like you, then I took a syntax error in the key! 🏹⚔️ 
 
 ## 🚀 What I Do
-- Building exciting applications and websites using **Java**, **Python**, **HTML**, and **CSS**.
+- Building exciting applications and websites using **Java**, **Python**, **CSS**, and **HTML**.
 - Exploring open source projects and learning through collaboration with others.
 
 ## 🌱 Currently Learning
