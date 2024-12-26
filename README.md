@@ -16,9 +16,11 @@
 ---
 
 ## 🔥 About Me
-- **Name:** Abdulkader Dakkak Badwi  
-- **Title:** Aspiring software developer on a quest to conquer the digital realm  
-- **Former Occupation:** Dovah-loper (until I took a syntax error in the key! 🏹⚔️)
+- **Name:** **Abdulkader Dakkak Badwi**  
+- **Status:** Passionate learner on a quest to become a software developer  
+- **Primary Interests:** Java, Python, JavaScript, PHP, SQL, CSS, HTML
+- **Methodologies:** Exploring Agile & Scrum for efficient teamwork  
+- **Focus:** Building foundational skills in coding, logic, and user-friendly designs  
 
 I’m currently learning and experimenting with **Java**, **JavaScript**, and **Node.js** to build robust and scalable applications. In my spare time, you’ll find me shredding on **Guitar** or **Keyboard**, honing my **Apex Legends** battle skills, and juggling multiple languages (English, German, Arabic, French, Turkish) like a pro.
 
