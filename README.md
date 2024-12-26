@@ -87,10 +87,8 @@ I’m currently learning and experimenting with **Java**, **JavaScript**, and **
 When I’m not coding, you can catch me:
 - Jamming on **Guitar** or **Keyboard**  
 - Battling in **Apex Legends**  
-- Speaking **English**, **German**, **Arabic**, French, and Turkish  
-
-
-![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+- Speaking **English**, **German**, **Arabic**, French, and Turkish
+  
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -113,5 +111,7 @@ _Always keep exploring & happy coding!_
 ---  
 
 <p align="center"><strong>Made with ❤️ & Markdown + a pinch of developer magic ✨</strong></p>
+
+![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
