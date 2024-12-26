@@ -110,4 +110,7 @@ _Always keep exploring & happy coding!_
 
 <p align="center"><strong>Made with ❤️ & Markdown + a pinch of developer magic ✨</strong></p>
 
+![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 ---
